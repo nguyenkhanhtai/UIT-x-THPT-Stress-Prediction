@@ -1,8 +1,10 @@
 <h1>Stress Prediction</h1>
 
 This is a hands-on practice on Machine Learning to me for a dataset of student's stress.
+
 Further information about Dataset: https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets/data
-Link to the competition: https://www.kaggle.com/competitions/uit-thpt-competition-2025/overview (I don't know if it would support post-contest submission or not)
+
+Link to the competition: https://www.kaggle.com/competitions/uit-thpt-competition-2025/overview (I don't know if this would support post-contest submission or not)
 
 Here is the experiment through tries:
 
